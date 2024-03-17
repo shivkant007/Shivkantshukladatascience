@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shivkant Shukla - Data Scientist</title>
+</head>
+<body>
+    <h1>Shivkant Shukla</h1>
+    <p>Flat No-2002 Luxor Tower Sikka Kaamna Greens Sec143 Noida 201305</p>
+    <p>Email: <a href="mailto:Shivkantshukla9@gmail.com">Shivkantshukla9@gmail.com</a></p>
+    <p>Phone: +917408327751</p>
+
+    <h2>SUMMARY</h2>
+    <p>Data Scientist with comprehensive experience in Data Science, Machine Learning, and Data Analysis. Proficient in project understanding, data cleaning, modeling, visualization, and storytelling. Skilled in presenting complex information to clients and translating insights into practical solutions. Seeking challenging opportunities to leverage expertise and contribute to progressive career growth.</p>
+
+    <h2>EXPERIENCE</h2>
+    <p><strong>Sanayan Solutions, Member of Pawar Tech Consultancy</strong></p>
+    <p><strong>Data Scientist</strong><br>
+    January 2023 - June 2023</p>
+    <ul>
+        <li>Conducted Exploratory Data Analysis to identify patterns and trends in healthcare data.</li>
+        <li>Implemented data cleaning techniques to improve data quality and accuracy.</li>
+        <li>Developed and interpreted models for machine learning production.</li>
+        <li>Collaborated with cross-functional teams to present findings and insights to clients.</li>
+        <li>Translated discoveries into user-friendly healthcare tools for practical applications.</li>
+        <li>Ensured model accuracy and relevance by regularly updating and adapting to evolving healthcare data.</li>
+    </ul>
+
+    <h2>EDUCATION</h2>
+    <p><strong>Master's Programs of Data Science</strong><br>
+    2022 – 2022</p>
+    <p><strong>Bachelor of Science</strong><br>
+    Dr. Ram Manohar Lohia Avadh University U.P<br>
+    2017-2020<br>
+    CGPA- 6.5/10</p>
+    <p><strong>12th</strong><br>
+    Raghuver Prasad Jaiswal S.S.M Inter College, Siddharthnager U.P<br>
+    2012-2014<br>
+    CGPA-7.8/10</p>
+    <p><strong>10th</strong><br>
+    Jawahar Lal Nehru Smarak Inter College, Siddhartnager U.P<br>
+    2010-2012<br>
+    CGPA-7.8/10</p>
+
+    <h2>SKILLS</h2>
+    <ul>
+        <li>Python</li>
+        <li>Machine Learning</li>
+        <li>PowerBI</li>
+        <li>Tableau</li>
+        <li>MySQL</li>
+        <li>SQL</li>
+        <li>Business Analytics with Excel</li>
+        <li>Deep Learning with Keras and Tensorflow</li>
+    </ul>
+
+    <h2>CERTIFICATIONS</h2>
+    <ul>
+        <li>Data Science with Python</li>
+        <li>Machine Learning</li>
+        <li>Tableau Training</li>
+        <li>SQL Training</li>
+        <li>Business Analytics with Excel</li>
+    </ul>
+
+    <h2>LINKS</h2>
+    <p><a href="linkedin.com/in/shivkantshukla0">LinkedIn</a></p>
+
+    <h2>ADDITIONAL EXPERIENCE</h2>
+    <p><strong>Business Analyst</strong></p>
+    <ul>
+        <li>Collected, processed, and visualized data, providing insights through statistical analyses.</li>
+        <li>Developed dashboards and collaborated with cross-functional teams to make data-driven contributions.</li>
+    </ul>
+</body>
+</html>
